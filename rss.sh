@@ -14,9 +14,11 @@ do
     echo "<item>"
     echo "<title>$title</title>"
     echo "<link>http://rajzfilmfigurak.hu/#$anchor</link>"
-    echo "<description><![CDATA["
+    echo "<description>"
+    echo "<![CDATA["
     echo "$content"
-    echo "]]></description>"
+    echo "]]>"
+    echo "</description>"
     echo "</item>"
 
     get_content=0
