@@ -194,3 +194,17 @@ Vacsora.
 > Petra: Olyan, mint egy barakc.  
 
 [Link](#csere)
+
+<a name="bacsi"></a>
+## Bácsi
+> Anya: Gyere, Huskó!  
+> Petra: Huskó _bácsi_!
+
+[Link](#bacsi)
+
+<a name="akartam"></a>
+## Akartam
+> Anya: Krisi, gyere, tisztába teszlek!  
+> Krisi: NEM AKARTAM!
+
+[Link](#akartam)
