@@ -197,7 +197,7 @@
 <link>http://rajzfilmfigurak.hu/#csere</link>
 <description>
 <![CDATA[
-  <blockquote><p>Petra: Megeszem a madarék perecet!</p></blockquote>  <hr />  <blockquote><p>Petra: Ez egy kő?<br/> Apa: Igen.<br/> Petra: Olyan, mint egy barakc.</p></blockquote> 
+  <blockquote><p>Petra: Megeszem a <em>madarék</em> perecet!</p></blockquote>  <hr />  <blockquote><p>Petra: Ez egy kő?<br/> Apa: Igen.<br/> Petra: Olyan, mint egy <em>barakc</em>.</p></blockquote> 
 ]]>
 </description>
 </item>
@@ -216,6 +216,69 @@
 <description>
 <![CDATA[
   <blockquote><p>Anya: Krisi, gyere, tisztába teszlek!<br/> Krisi: NEM AKARTAM!</p></blockquote> 
+]]>
+</description>
+</item>
+<item>
+<title>Add vissza</title>
+<link>http://rajzfilmfigurak.hu/#add_vissza</link>
+<description>
+<![CDATA[
+  <p>Petra, vagy éppen bárki más elvesz bármit Krisitől.</p>  <blockquote><p>Krisi: Add vissza Petrának!</p></blockquote> 
+]]>
+</description>
+</item>
+<item>
+<title>További első szavak</title>
+<link>http://rajzfilmfigurak.hu/#tovabbi</link>
+<description>
+<![CDATA[
+  <p>Hinta-palinta</p>  <blockquote><p>Petra: hinta-pintata<br/> Krisi: palinta</p></blockquote>  <p>Porszívó</p>  <blockquote><p>Petra: pípopó<br/> Krisi: porszi</p></blockquote>  <p>Sapka</p>  <blockquote><p>Petra: pakka</p></blockquote> 
+]]>
+</description>
+</item>
+<item>
+<title>Matrica</title>
+<link>http://rajzfilmfigurak.hu/#matrica</link>
+<description>
+<![CDATA[
+  <p>A forgalomban elhaladtunk egy autó mellett, aminek le volt fóliázva az ablaka.</p>  <blockquote><p>Petra: A mi autónkon is van matrica?<br/> Apa: Nincsen.<br/> Petra: Akkor vegyünk matricát a matricás boltban.</p></blockquote> 
+]]>
+</description>
+</item>
+<item>
+<title>Megcsípett</title>
+<link>http://rajzfilmfigurak.hu/#megcsipett</link>
+<description>
+<![CDATA[
+  <p>Petra (2,5) ismerkedik a sztatikus elektromossággal, majd otthon beszámol róla.</p>  <blockquote><p>Petra: Valami megcsípett a csúszdan! Egy elektrom!</p></blockquote> 
+]]>
+</description>
+</item>
+<item>
+<title>Tücsök</title>
+<link>http://rajzfilmfigurak.hu/#tucsok</link>
+<description>
+<![CDATA[
+  <p>Nagyapa altatja Petrát este. Petra megfordul, és felteszi a kérdést:</p>  <blockquote><p>Petra: Pappapa, miért nem ciripel a tücsök?</p></blockquote> 
+]]>
+</description>
+</item>
+<item>
+<title>Álmos</title>
+<link>http://rajzfilmfigurak.hu/#almos</link>
+<description>
+<![CDATA[
+  <blockquote><p>Krisi (1,5 év): Álmos vagyok. Ebédeljünk.</p></blockquote> 
+]]>
+</description>
+</item>
+<item>
+<title>Baj</title>
+<link>http://rajzfilmfigurak.hu/#baj</link>
+<description>
+<![CDATA[
+  <blockquote><p>Petra (2,5 év): Anyám! Mi a baj?</p></blockquote> 
 ]]>
 </description>
 </item>

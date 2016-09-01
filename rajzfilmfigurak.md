@@ -185,13 +185,13 @@ Vacsora.
 <a name="csere"></a>
 ## Csere
 
-> Petra: Megeszem a madarék perecet! 
+> Petra: Megeszem a _madarék_ perecet! 
 
 ---
 
 > Petra: Ez egy kő?  
 > Apa: Igen.  
-> Petra: Olyan, mint egy barakc.  
+> Petra: Olyan, mint egy _barakc_.  
 
 [Link](#csere)
 
@@ -208,3 +208,64 @@ Vacsora.
 > Krisi: NEM AKARTAM!
 
 [Link](#akartam)
+
+<a name="add_vissza"></a>
+## Add vissza
+Petra, vagy éppen bárki más elvesz bármit Krisitől.
+
+> Krisi: Add vissza Petrának!
+
+[Link](#add_vissza)
+
+<a name="tovabbi"></a>
+## További első szavak
+Hinta-palinta
+> Petra: hinta-pintata  
+> Krisi: palinta
+
+Porszívó
+> Petra: pípopó  
+> Krisi: porszi
+
+Sapka
+> Petra: pakka
+
+[Link](#tovabbi)
+
+<a name="matrica"></a>
+## Matrica
+A forgalomban elhaladtunk egy autó mellett, aminek le volt fóliázva az ablaka.
+
+> Petra: A mi autónkon is van matrica?  
+> Apa: Nincsen.  
+> Petra: Akkor vegyünk matricát a matricás boltban.
+
+[Link](#matrica)
+
+<a name="megcsipett"></a>
+## Megcsípett
+Petra (2,5) ismerkedik a sztatikus elektromossággal, majd otthon beszámol róla.
+
+> Petra: Valami megcsípett a csúszdan! Egy elektrom!
+
+[Link](#megcsipett)
+
+<a name="tucsok"></a>
+## Tücsök
+Nagyapa altatja Petrát este. Petra megfordul, és felteszi a kérdést:
+
+> Petra: Pappapa, miért nem ciripel a tücsök?
+
+[Link](#tucsok)
+
+<a name="almos"></a>
+## Álmos
+> Krisi (1,5 év): Álmos vagyok. Ebédeljünk.
+
+[Link](#almos)
+
+<a name="baj"></a>
+## Baj
+> Petra (2,5 év): Anyám! Mi a baj?
+
+[Link](#baj)
