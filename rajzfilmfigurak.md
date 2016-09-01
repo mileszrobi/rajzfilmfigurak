@@ -246,7 +246,7 @@ A forgalomban elhaladtunk egy autó mellett, aminek le volt fóliázva az ablaka
 ## Megcsípett
 Petra (2,5) ismerkedik a sztatikus elektromossággal, majd otthon beszámol róla.
 
-> Petra: Valami megcsípett a csúszdan! Egy elektrom!
+> Petra: Valami megcsípett a csúszdán! Egy elektrom!
 
 [Link](#megcsipett)
 
