@@ -269,3 +269,76 @@ Nagyapa altatja Petrát este. Petra megfordul, és felteszi a kérdést:
 > Petra (2,5 év): Anyám! Mi a baj?
 
 [Link](#baj)
+
+<a name="akkora_oriasit"></a>
+## Akkora óriásit
+Petra ugrál a trambulinban. Egyszercsak ugrik egy akkora hátast, hogy a lába majdnem eléri a fejét.
+
+> Petra: Az előbb _akkorásit_ ugrottam, hogy felment a lábam!
+
+[Link](#akkora_oriasit)
+
+<a name="vakond"></a>
+## Vakond
+Néha úgy érzem, lemaradtam valamiről. Például, amikor Petra megtalált egy plüssvakondot, és így kommentálta:
+
+> Petra: Itt egy vakond. Nem tud lehajolni, de van bajsza.
+
+[Link](#vakond)
+
+<a name="szotar"></a>
+## Szótár
+Krisi
+> Ugga-bugga: trambulin  
+> Gyupópép: gyümölcspép  
+> Lepepetés: meglepetés (de leginkább valamilyen édesség)
+
+Petra
+> Bagó: bagoly  
+> Hajcsipa: szempilla; "Valami van a szememben. Egy hajcsipa."  
+> Penót: spenót; általában automatikus tárgyesetként használatos, pl. "Kérek még penót!"
+
+[Link](#szotar)
+
+<a name="vaskalap"></a>
+## Vaskalap
+Esti fürdésnél Petra szalad ki a fürdőszobából.
+
+> Petra: Elszökök, mint egy vaskalap!
+
+[Link](#vaskalap)
+
+<a name="gesztenye"></a>
+## Gesztenye
+> Petra: Keressünk gesztenyét! Iduljunk! Let's go!
+
+[Link](#gesztenye)
+
+<a name="egyedul"></a>
+## Egyedül
+Petra szeretne egyedül maradni.
+
+> Petra: Apa, kimész a nappaliba, és ott maradsz nagyon sokáig?
+
+[Link](#egyedul)
+
+<a name="ajto"></a>
+## Ajtó
+Újabban alváskor nyitva kell hagyni a gyerekszoba ajtaját. Petra így szokta kommentálni Krisinek.
+
+> Petra: Anya nem engedi meg, hogy nyitva hagyjam, de apa olyan bátor, hogy megengedi.
+
+Vagy:
+
+> Petra: Ha apa nem nyitja ki az ajtót, akkor előveszek egy porcelánbabát és kimegyek.
+
+[Link](#ajto)
+
+<a name="sor"></a>
+## Sör
+Petra elcsente Anya őrizetlenül hagyott ciderét a konyhaasztalról.
+
+> Petra: Ittam sört!
+
+[Link](#sor)
+
