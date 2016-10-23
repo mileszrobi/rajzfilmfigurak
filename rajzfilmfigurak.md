@@ -310,7 +310,7 @@ Esti fürdésnél Petra szalad ki a fürdőszobából.
 
 <a name="gesztenye"></a>
 ## Gesztenye
-> Petra: Keressünk gesztenyét! Iduljunk! Let's go!
+> Petra: Keressünk gesztenyét! Induljunk! Let's go!
 
 [Link](#gesztenye)
 
