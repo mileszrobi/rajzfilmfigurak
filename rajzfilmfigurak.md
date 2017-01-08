@@ -266,7 +266,7 @@ Nagyapa altatja Petrát este. Petra megfordul, és felteszi a kérdést:
 
 <a name="baj"></a>
 ## Baj
-> Petra (2,5 év): Anyám! Mi a baj?
+> Petra (2,5 év), Anyának: Anyám! Mi a baj?
 
 [Link](#baj)
 
@@ -341,4 +341,138 @@ Petra elcsente Anya őrizetlenül hagyott ciderét a konyhaasztalról.
 > Petra: Ittam sört!
 
 [Link](#sor)
+
+<a name="pillango"></a>
+## Pillangó
+Petra talált egy éjjeli lepkét.
+
+> Petra: Ott egy éjjeli pillangó!
+
+[Link](#pillango)
+
+<a name="ragtapasz"></a>
+## Ragtapasz
+> Anya: Adjátok vissza, az az én ragtapaszom!  
+> Petra: Hát, sajnálom, ez már a miénk.  
+
+[Link](#ragtapasz)
+
+<a name="verszivo"></a>
+## Vérszívó
+Krisi a fürdőkádban ülve rágcsálja az egyik játékot.
+
+> Anya: Na mi van, kicsi vámpír?  
+> Krisi: KICSI VIMPÁR!
+
+[Link](#verszivo)
+
+<a name="kendo"></a>
+## Ablaktörlő
+Vagy, ahogy Petra hívta másfél-kétévesen: kendő. Valamiért még félelmetes is volt, tehát nem szabadott bekapcsolni a kendőt, ha esett az eső.
+
+[Link](#kendo)
+
+<a name="dolgozo"></a>
+## Dolgozó
+> Petra: Soha többé ne menj dolgozóba!
+
+[Link](#dolgozo)
+
+<a name="kolbasz"></a>
+## Kolbász
+Fürdetés közben.
+> Petra: Nem akarok fürdeni!  
+> Anya: Akkor mit szeretnél?  
+> Petra: Kolbászt. Sajtot.
+
+[Link](#kolbasz)
+
+<a name="kalacs"></a>
+## Kalács
+> Petra: Ez mi?  
+> Apa: A térdkalácsom.  
+> Petra: Ettél kalácsot?
+
+[Link](#kalacs)
+
+<a name="erv"></a>
+## A végső érv
+> Krisi: Kérek banánt!  
+> Apa: Nincs itthon banán.  
+> Krisi: Akkor is!
+
+[Link](#erv)
+
+<a name="szulinap"></a>
+## Szülinap
+> Nagyi: Menj oda Anyához, és mondd neki, hogy "Isten éltessen szülinapot alkalmából!"  
+> Petra Anyának: Éltessen éltessen éltessen!
+
+[Link](#szulinap)
+
+<a name="orias"></a>
+## Óriás
+Krisi, mindenféle kontextus nélkül.
+> Krisi: Nem tudok óriás lenni!
+
+[Link](#orias)
+
+<a name="masik_nagyi"></a>
+## Amikor mindegyik nagyszülő jelen van
+>Petra: Idenézz, Másik Nagyi!
+
+[Link](#masik_nagyi)
+
+<a name="mezeskalacs"></a>
+## Készül a mézeskalács
+>Petra: Utána megesszük?  
+>Anya: Majd ha megsütjük.  
+>Petra: Egyelőre nem.
+
+[Link](#mezeskalacs)
+
+<a name="vegyko"></a>
+## Vegyes élethelyzetek
+1.
+>Krisi: Beszorultam!  
+>Petra: _Kiszabítalak._
+
+2.
+>Petra: Mindig apa rossz találványt mutat ki nekem.
+
+3.
+>Krisi: Mi van oda odaírva?
+
+[Link](#vegyko)
+
+<a name="szotar2"></a>
+## Szótár 2
+Krisi (1,5 évesen)
+> Ámpti ámpti: humpty dumpty
+
+Petra (1,5 évesen)
+> Gogó: kölesgolyó
+
+[Link](#szotar2)
+
+<a name="buba"></a>
+## Bábu
+Krisi szalad el egy társasjáték bábujával.
+> Krisi: Elvettem Petra búbáját!
+
+[Link](#buba)
+
+<a name="mindig"></a>
+## Mindig
+Krisi kapott egy lufit. Apa felfújja, odaadja, Krisi kezében leereszt - ezt ismételjük. A negyedik-ötödik kör után Krisi összefoglalja a jelenséget.
+> Krisi: Mindig mi történik!
+
+[Link](#mindig)
+
+<a name="bator"></a>
+## Bátor
+Krisi, a doktornénitől kijőve.
+>Krisi: Bátor voltam és bátor!
+
+[Link](#bator)
 
