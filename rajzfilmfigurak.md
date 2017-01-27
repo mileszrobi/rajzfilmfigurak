@@ -476,3 +476,17 @@ Krisi, a doktornénitől kijőve.
 
 [Link](#bator)
 
+<a name="wtf"></a>
+## ???
+> Petra (3): Ha valamit akarsz, nekem mondjad. Ha valamit nem akarsz, anyának.
+
+> Krisi (2): Be akarok kimenni.
+
+> Krisi (2): Ez milyen színű?  
+> Anya: Narancssárga.  
+> Krisi: Ó, jaj!
+
+> Petra (3): Azért nem kap mindenki fagyit, mert akkor mindeni oroszul fog beszélni.
+
+
+[Link](#wtf)
