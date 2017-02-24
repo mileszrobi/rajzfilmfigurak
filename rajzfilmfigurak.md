@@ -488,5 +488,49 @@ Krisi, a doktornénitől kijőve.
 
 > Petra (3): Azért nem kap mindenki fagyit, mert akkor mindeni oroszul fog beszélni.
 
-
 [Link](#wtf)
+
+<a name="tokeletes"></a>
+## Tökéletes
+
+> Krisi (2): Odaadod a buszt?  
+> Anya: Tessék.  
+> Krisi: Tökéletes!  
+
+[Link](#tokeletes)
+
+<a name="boklasz"></a>
+## Bóklász
+
+> Nagyi meséli a napot: ...aztán a Sugárban bóklásztunk.  
+> Petra (3): Mi az a bókla?
+
+[Link](#boklasz)
+
+<a name="cikk"></a>
+## Cikk
+
+Petra körtét eszik, és persze Krisinek is kell.
+
+> Nagyapa: Kérsz? Vágjak egy cikket?  
+> Krisi: Hol a cikke vágó?
+
+[Link](#cikk)
+
+<a name="telefon"></a>
+## Telefon
+
+Petra a nagyiéknál tölti a hétvégét, Apa otthon betegeskedik. Mikor Apa és Nagyi telefonon beszél, Petra elkéri, hogy ő is mondhasson valamit:
+
+> Petra (3): Ha nem leszel jobban, akkor rosszabb lesz. Na puszi szia!
+
+[Link](#telefon)
+
+<a name="meta"></a>
+## Meta
+
+Krisi éppen nyűgös, és semmi nem jó. Nem akar semmit. Míg végül:
+
+> Krisi (2): Nem akartam azt akarni!
+
+[Link](#meta)
