@@ -534,3 +534,74 @@ Krisi éppen nyűgös, és semmi nem jó. Nem akar semmit. Míg végül:
 > Krisi (2): Nem akartam azt akarni!
 
 [Link](#meta)
+
+<a name="kijjebb"></a>
+##Kijjebb
+A mélygarázsban kevés a hely, éppen indul a család.
+
+> Apa, Anyához: Kijjebb álljak, hogy be tudj szállni?  
+> Petra (3): Kiabálni fogsz?
+
+[Link](#kijjebb)
+
+<a name="krisi_vegyes""></a>
+##Krisi vegyes
+Krisi (2) elmélkedései, kétévesen.
+
+> Krisi: Nekem nincs gorkörim!
+
+Elkeseredetten előredől.
+> Krisi: Leszontyolodtam.  
+
+Újra felegyenesedik.
+> Krisi: Felszontyolodtam.
+
+Anyához.
+> Krisi: Szemgolyó van a szemedben!  
+ 
+Szintén Anyával folytatott diskurzus. 
+> Krisi: Mi van a pocakodban?  
+> Anya: Banán.  
+> Krisi: Kiveszed?
+
+Meglát az ablakból egy fehér betonpumpát.
+> Krisi: Ott egy nagy barna markoló!
+
+[Link](#krisi_vegyes)
+
+<a name="allat"></a>
+##Állat
+A gyerekek a szobából néznek egy, a redőnyre felkenődött legyet.
+
+> Petra (3): Ő az én állatom, Peti.  
+> Krisi (2): Ő AZ ÉN ÁLLATOM, ÁLLAT!  
+
+[Link](#allat)
+
+<a name="ilyesmi"></a>
+##Ilyesmi
+Petra (3) kíváncsi, hogy számíthat-e valamilyen édességre.
+
+> Petra: Hoztál nekünk gyerekilyesmit?
+
+[Link](#ilyesmi)
+
+<a name="segit"></a>
+##Segít
+> Anya, Krisitől: És hogy hívták a fodrász nénit, aki levágta a hajad?  
+> Petra (3), segítőkészen: ELEMP!
+
+(Nórának hívták)
+
+[Link](#segit)
+
+<a name="torta"></a>
+##Torta
+Nagyi születésnapján vendégeskedünk.
+
+> Nagyi: Van oroszkrémtorta...  
+> Petra (3): OROSZ?  
+> Nagyi: ...és ilyen saját gyártmány.  
+> Petra: Én a gyártmányosból kérek.  
+
+[Link](#torta)
