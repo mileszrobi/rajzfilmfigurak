@@ -605,3 +605,72 @@ Nagyi születésnapján vendégeskedünk.
 > Petra: Én a gyártmányosból kérek.  
 
 [Link](#torta)
+
+<a name="krisi_vegyes_2"></a>
+##Krisi vegyes 2
+Anyának, fürdetéshez készülődvén:
+> Krisi (2): Tegyél le, gonosz varázsló!
+
+A szabadban
+> Krisi (2): Támadt a szél!
+
+Továbbá
+> Terehautó  
+> Ápofonya (áfonya)
+
+Nagyiéknál, ebédlőasztalhoz érkezve
+> Krisi (2): Tortát!
+
+Nagy erőkkel mászik fel a kertben a lépcsőre
+> Anya: Gyere le onnan, Krisi!  
+> Krisi (2): Csak megoldom a problémát!
+
+[Link](#krisi_vegyes_2)
+
+<a name="boldogul"></a>
+##Boldogul
+Petra eltört egy sípot. A következőképpen vezeti fel:
+> Petra (3): Apa, tudom, hogy nem boldogulsz tőle, de megmutatom.
+
+[Link](#boldogul)
+
+<a name="belefaradt"></a>
+##Belefáradt
+> Petra (3): Teljesen belefáradtam valamibe. Egy kukacba.
+
+[Link](#belefaradt)
+
+<a name="nota"></a>
+##Nóta
+Klasszikus dalok, Krisi (2) feldolgozásában:
+> Krisi: Kiskacsa fürdik  
+> fekete tóban  
+> hangyához készül  
+> Lengyelországba
+
+> Krisi: Erdő szélén házikó  
+> Ablakában nagy a pók
+
+[Link](#nota)
+
+<a name="szornyeteg"></a>
+##Szörnyeteg
+> Krisi (2): De ott egy óriási szörnyeteg!  
+> Nagyi: Nincsen ott szörnyeteg.  
+> Krisi: De én vagyok egy óriási szörnyeteg elől elbújok.
+
+[Link](#szornyeteg)
+
+<a name="program"></a>
+##Program
+Próbáljuk megbeszélni a hétvégét.
+> Anya: Te tudod mi lesz szombaton az óvodában?  
+> Apa: Én nem kaptam semmilyen programot.  
+> Anya: Én sem kaptam.  
+> Petra (3): Én sem, de azt mondták az oviban, hogy ha sokat programozok, mehetek büntibe.  
+> Anya, apa: Micsoda?  
+> Petra: Az óvónéni azt mondta, hogy ha sokat programozok, büntetést kapok.  
+> Anya: Nem akkor, ha műsorozol?  
+> Petra: Jaaa, de.
+
+[Link](#program)
