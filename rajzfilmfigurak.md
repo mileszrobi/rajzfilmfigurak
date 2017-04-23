@@ -614,10 +614,6 @@ Anyának, fürdetéshez készülődvén:
 A szabadban
 > Krisi (2): Támadt a szél!
 
-Továbbá
-> Terehautó  
-> Ápofonya (áfonya)
-
 Nagyiéknál, ebédlőasztalhoz érkezve
 > Krisi (2): Tortát!
 
@@ -626,6 +622,16 @@ Nagy erőkkel mászik fel a kertben a lépcsőre
 > Krisi (2): Csak megoldom a problémát!
 
 [Link](#krisi_vegyes_2)
+
+<a name="szotar3"></a>
+## Szótár 3
+Krisi (1,5 évesen)
+> Terehautó: teherautó
+
+Petra (1,5 évesen)
+> Ápofonya: áfonya
+
+[Link](#szotar3)
 
 <a name="boldogul"></a>
 ##Boldogul
