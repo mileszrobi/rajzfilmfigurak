@@ -680,3 +680,19 @@ Próbáljuk megbeszélni a hétvégét.
 > Petra: Jaaa, de.
 
 [Link](#program)
+
+<a name="lapos"></a>
+##Lapos
+Leeresztett a lufi.
+> Petra (3): Lapos lett. Tiszta lap.
+
+[Link](#lapos)
+
+<a name="azok"></a>
+##Azok
+A függönyről beszélgettünk. Valamiért Krisi így kommentálta.
+> Krisi (2): Hé, ez egy buli. Itt szoktam táncolni a barátaimmal.  
+> Anya: És kik a barátaid?  
+> Krisi (Apára és Petrára mutatva): Azok.
+
+[Link](#azok)
