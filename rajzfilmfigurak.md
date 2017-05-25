@@ -696,3 +696,11 @@ A függönyről beszélgettünk. Valamiért Krisi így kommentálta.
 > Krisi (Apára és Petrára mutatva): Azok.
 
 [Link](#azok)
+
+<a name="lakk"></a>
+##Lakk
+Petra szeretné, ha Anya kilakkozná a körmét.
+
+> Petra (3): Kikörmözöd?
+
+[Link](#lakk)
