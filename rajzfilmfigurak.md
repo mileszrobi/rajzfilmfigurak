@@ -536,7 +536,7 @@ Krisi éppen nyűgös, és semmi nem jó. Nem akar semmit. Míg végül:
 [Link](#meta)
 
 <a name="kijjebb"></a>
-##Kijjebb
+## Kijjebb
 A mélygarázsban kevés a hely, éppen indul a család.
 
 > Apa, Anyához: Kijjebb álljak, hogy be tudj szállni?  
@@ -545,7 +545,8 @@ A mélygarázsban kevés a hely, éppen indul a család.
 [Link](#kijjebb)
 
 <a name="krisi_vegyes""></a>
-##Krisi vegyes
+## Krisi vegyes
+
 Krisi (2) elmélkedései, kétévesen.
 
 > Krisi: Nekem nincs gorkörim!
@@ -570,7 +571,8 @@ Meglát az ablakból egy fehér betonpumpát.
 [Link](#krisi_vegyes)
 
 <a name="allat"></a>
-##Állat
+## Állat
+
 A gyerekek a szobából néznek egy, a redőnyre felkenődött legyet.
 
 > Petra (3): Ő az én állatom, Peti.  
@@ -579,7 +581,8 @@ A gyerekek a szobából néznek egy, a redőnyre felkenődött legyet.
 [Link](#allat)
 
 <a name="ilyesmi"></a>
-##Ilyesmi
+## Ilyesmi
+
 Petra (3) kíváncsi, hogy számíthat-e valamilyen édességre.
 
 > Petra: Hoztál nekünk gyerekilyesmit?
@@ -587,7 +590,8 @@ Petra (3) kíváncsi, hogy számíthat-e valamilyen édességre.
 [Link](#ilyesmi)
 
 <a name="segit"></a>
-##Segít
+## Segít
+
 > Anya, Krisitől: És hogy hívták a fodrász nénit, aki levágta a hajad?  
 > Petra (3), segítőkészen: ELEMP!
 
@@ -596,7 +600,8 @@ Petra (3) kíváncsi, hogy számíthat-e valamilyen édességre.
 [Link](#segit)
 
 <a name="torta"></a>
-##Torta
+## Torta
+
 Nagyi születésnapján vendégeskedünk.
 
 > Nagyi: Van oroszkrémtorta...  
@@ -607,7 +612,8 @@ Nagyi születésnapján vendégeskedünk.
 [Link](#torta)
 
 <a name="krisi_vegyes_2"></a>
-##Krisi vegyes 2
+## Krisi vegyes 2
+
 Anyának, fürdetéshez készülődvén:
 > Krisi (2): Tegyél le, gonosz varázsló!
 
@@ -625,6 +631,7 @@ Nagy erőkkel mászik fel a kertben a lépcsőre
 
 <a name="szotar3"></a>
 ## Szótár 3
+
 Krisi (1,5 évesen)
 > Terehautó: teherautó
 
@@ -634,20 +641,23 @@ Petra (1,5 évesen)
 [Link](#szotar3)
 
 <a name="boldogul"></a>
-##Boldogul
+## Boldogul
+
 Petra eltört egy sípot. A következőképpen vezeti fel:
 > Petra (3): Apa, tudom, hogy nem boldogulsz tőle, de megmutatom.
 
 [Link](#boldogul)
 
 <a name="belefaradt"></a>
-##Belefáradt
+## Belefáradt
+
 > Petra (3): Teljesen belefáradtam valamibe. Egy kukacba.
 
 [Link](#belefaradt)
 
 <a name="nota"></a>
-##Nóta
+## Nóta
+
 Klasszikus dalok, Krisi (2) feldolgozásában:
 > Krisi: Kiskacsa fürdik  
 > fekete tóban  
@@ -660,7 +670,8 @@ Klasszikus dalok, Krisi (2) feldolgozásában:
 [Link](#nota)
 
 <a name="szornyeteg"></a>
-##Szörnyeteg
+## Szörnyeteg
+
 > Krisi (2): De ott egy óriási szörnyeteg!  
 > Nagyi: Nincsen ott szörnyeteg.  
 > Krisi: De én vagyok egy óriási szörnyeteg elől elbújok.
@@ -668,7 +679,8 @@ Klasszikus dalok, Krisi (2) feldolgozásában:
 [Link](#szornyeteg)
 
 <a name="program"></a>
-##Program
+## Program
+
 Próbáljuk megbeszélni a hétvégét.
 > Anya: Te tudod mi lesz szombaton az óvodában?  
 > Apa: Én nem kaptam semmilyen programot.  
@@ -682,14 +694,16 @@ Próbáljuk megbeszélni a hétvégét.
 [Link](#program)
 
 <a name="lapos"></a>
-##Lapos
+## Lapos
+
 Leeresztett a lufi.
 > Petra (3): Lapos lett. Tiszta lap.
 
 [Link](#lapos)
 
 <a name="azok"></a>
-##Azok
+## Azok
+
 A függönyről beszélgettünk. Valamiért Krisi így kommentálta.
 > Krisi (2): Hé, ez egy buli. Itt szoktam táncolni a barátaimmal.  
 > Anya: És kik a barátaid?  
@@ -698,9 +712,57 @@ A függönyről beszélgettünk. Valamiért Krisi így kommentálta.
 [Link](#azok)
 
 <a name="lakk"></a>
-##Lakk
+## Lakk
+
 Petra szeretné, ha Anya kilakkozná a körmét.
 
 > Petra (3): Kikörmözöd?
 
 [Link](#lakk)
+
+<a name="vegyes"></a>
+## Vegyes
+
+Krisi fejére húz egy pólót.
+> Krisi (2): Úgy nézek ki, mint egy kisfiú! 
+---
+Túrós batyu.
+> Krisi (2): Szúrós batyu.
+---
+Petra egyik karkötője elszakadt. Kapott egy másikat, vastagabbat.
+> Petra (3): Mi lesz, ha ez is elszakad?  
+> Apa: Ez nem fog elszakadni.  
+> Petra: Mert nagyobb a szakítószilárdsága? 
+---
+> Krisi (2): Azt nyugodtan elvehetem?  
+---
+> Petra (3): Annyira szeretlek, mint egy felhőt.  
+> Nagyapa: Miért, a felhőt hogy szereted?  
+> Petra: Sehogy.
+---
+> Krisi (2): Nem tudok betakarózkodni.
+---
+Krisi a lépcsőn fölfelé menve szemrevételezi a falban lévő elektromos dobozokat.
+> Krisi (2): Ez egy doboz. Ráadásul az a doboz.  
+---
+> Krisi (2): Minden kell a szükséghez nekem.
+---
+Krisi keresi a helyét az asztalnál.
+> Krisi (2): Én hol ülök ezek szerint?  
+---
+> Apa: Krisi, most ne menj le a lépcsőn.  
+> Krisi (2): De kétszer és százszor!
+---
+> Apa: Krisi, te szétszedted a szivacsot?  
+> Krisi (2): Szétjavítottam.
+---
+> Petra (3): Átöltözöm, mindjárt perc jövök! 
+---
+> Petra (3): Koffenti
+---
+> Krisi (2): Alivabagyó
+---
+> Anya: Krisi, gyere enni.  
+> Krisi (2): Bocs, de még kalibrálnom kell a gépet.
+
+[Link](#vegyes)
