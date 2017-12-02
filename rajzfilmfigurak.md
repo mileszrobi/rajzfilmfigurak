@@ -766,3 +766,25 @@ Krisi keresi a helyét az asztalnál.
 > Krisi (2): Bocs, de még kalibrálnom kell a gépet.
 
 [Link](#vegyes)
+
+<a name="2017Okt"></a>
+## 2017 Október
+---  
+Krisi lát egy pumát.
+> Krisi (2): Az egy pú?  
+---
+> Petra (3): Sajnálom, hogy le fogom rántani az egészet. Az én hibám.  
+> Anya: De mondjuk nem lenne muszáj lerángatni.  
+> Petra: De le kell.
+---
+> Petra (3): Én akartam felolvasni Krisinek ezt a mesét, de kiderült, hogy nem tudok olvasni.
+---
+> Petra (3): Apa, te most komolyan viccelsz?
+---
+> Petra (3): Apa, kár, hogy te nem úgy készültél, mint egy robot.
+---
+Krisi jelentőségteljesen elhelyezkedik a fotelban.
+> Nagyapa: Te vagy a király?  
+> Krisi (2): Igen. Hozzatok egy koronát!  
+
+[Link](#2017Okt)
