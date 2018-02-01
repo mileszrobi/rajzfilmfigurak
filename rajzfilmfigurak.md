@@ -788,3 +788,48 @@ Krisi jelentőségteljesen elhelyezkedik a fotelban.
 > Krisi (2): Igen. Hozzatok egy koronát!  
 
 [Link](#2017Okt)
+
+<a name="furfangos"></a>
+## Furfangos
+De akkor én elütöm az autókat egy nagy, furfangos kamionnal.
+[Link](#furfangos)
+
+<a name="beka"></a>
+## Béka
+Krisi (2) legújabbjai.
+
+> Krisi: A béka egy élőlény. A nem béka nem élőlény.  
+
+> Krisi: Ez a süti finom, és mennyei!
+
+> Anya: Krisi, te olyan okos vagy, hogy nem igaz!   
+> Krisi: De igen, igaz!
+
+Valamelyik játék után kutatva:
+> Krisi: Égen földön keresőm, és felbukkant!
+
+Játékkoronával a kezében:
+> Krisi: Ezemmel megkoronázlak!
+
+Valamilyen mesét nézve:
+> Krisi: Valaki fűrészel. Aha, megvannak a bajkeverők!
+
+Petra hisztizik.
+> Nagyi: Petra, ha hisztizel, itthon hagyunk, és nélküled megyünk sétálni.  
+> Krisi: De akkor honnan lesz új nővérem?
+
+Végül:
+> Krisi: Kitört a vulkán, és mindenhova folyik a lába!
+ 
+[Link](#beka)
+
+<a name="Puliszka"></a>
+## Puliszka
+Petra (4) bölcsességei.
+
+> Petra (a prüszkölő macskának): Tedd a mancsod a szád elé.  
+> Petra (apának): Nevelem a macskámat.
+
+> Petra: Jancsi és puliszka. 
+
+[Link](#puliszka)
