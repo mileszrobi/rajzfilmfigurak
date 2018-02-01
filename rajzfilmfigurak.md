@@ -545,10 +545,10 @@ A mélygarázsban kevés a hely, éppen indul a család.
 
 [Link](#kijjebb)
 
-<a name="krisi_vegyes""></a>
+<a name="krisi_vegyes"></a>
 ## Krisi vegyes
 
-Krisi (2) elmélkedései, kétévesen.
+Krisi elmélkedései, kétévesen.
 
 > Krisi: Nekem nincs gorkörim!
 
@@ -792,17 +792,21 @@ Krisi jelentőségteljesen elhelyezkedik a fotelban.
 
 <a name="furfangos"></a>
 ## Furfangos
-De akkor én elütöm az autókat egy nagy, furfangos kamionnal.
+> Krisi (2): De akkor én elütöm az autókat egy nagy, furfangos kamionnal.
+
 [Link](#furfangos)
 
 <a name="beka"></a>
 ## Béka
 Krisi (2) legújabbjai.
 
+Rendszertan:
 > Krisi: A béka egy élőlény. A nem béka nem élőlény.  
 
+Süti:
 > Krisi: Ez a süti finom, és mennyei!
 
+Meg okos is:
 > Anya: Krisi, te olyan okos vagy, hogy nem igaz!   
 > Krisi: De igen, igaz!
 
@@ -810,7 +814,7 @@ Valamelyik játék után kutatva:
 > Krisi: Égen földön keresőm, és felbukkant!
 
 Játékkoronával a kezében:
-> Krisi: Ezemmel megkoronázlak!
+> Krisi: _Ezemmel_ megkoronázlak!
 
 Valamilyen mesét nézve:
 > Krisi: Valaki fűrészel. Aha, megvannak a bajkeverők!
