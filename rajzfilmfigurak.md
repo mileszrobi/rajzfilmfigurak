@@ -1,5 +1,6 @@
 # Rajzfilmfigurák
-A főnökasszony, meg a kapitány
+A főnökasszony, meg a kapitány.
+Meg a Józsi Bagoly, aki azt mondja, hogy PFFFF. De csak ha fél.
 
 
 <a name="alapok"></a>
@@ -138,7 +139,7 @@ Kristóf, 17 hónaposan, egy vidám hajnalon ébreszti a szüleit.
 <a name="elkepzeles"></a>
 ## Elképzelés
 > Nagyi: A Dórás lufit hazaviszed, vagy maradjon itt?  
-> Petra: Majd Anya elkepzeli.
+> Petra: Majd Anya elképzeli.
 
 [Link](#elkepzeles)
 
