@@ -1,5 +1,5 @@
 # Rajzfilmfigurák
-A főnökasszony, meg a kapitány.
+A főnökasszony, meg a kapitány.  
 Meg a Józsi Bagoly, aki azt mondja, hogy PFFFF. De csak ha fél.
 
 
@@ -838,3 +838,45 @@ Petra (4) bölcsességei.
 > Petra: Jancsi és puliszka. 
 
 [Link](#puliszka)
+
+<a name="mi"></a>
+## Mi
+Anya nyújtózkodva jön be a konyhába, ahol Krisi vacsorázik.
+
+> Krisi (3): Na mi van?
+
+[Link](#mi)
+
+<a name="melleny"></a>
+## Mellény
+Krisi felöltözött a sétához, felvette a mellényét. Eképpen nyugtázza:
+> Krisi (3): Kész vagyok. Olyan pufi vagyok, mint egy popcorn.
+
+[Link](#melleny)
+
+<a name="problema"></a>
+## Probléma
+Krisi, közvetlenül ébredés után, kontextus nélkül.
+> Krisi (3): Pikk-pakk megoldódik a probléma!
+
+[Link](#problema)
+
+<a name="barka"></a>
+## Barka
+> Petra (4): Ez egy művirág?  
+> Apa: Nem, ez igazi.  
+> Petra: Akkor miért van rajta pompom?  
+
+[Link](#barka)
+
+<a name="hoszorny"></a>
+## Hószörny
+> Krisi (3): A hószörny nagyon nagy volt, és nem tudtam tőle megijedni. Csak a hatalmasaktól tudok.  
+
+[Link](#hoszorny)
+
+<a name="elismeres"></a>
+## Elismerés
+> Petra (4): Krisi, te pöpec vagy!
+
+[Link](#elismeres)
