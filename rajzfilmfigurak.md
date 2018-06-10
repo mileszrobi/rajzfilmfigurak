@@ -880,3 +880,27 @@ Krisi, közvetlenül ébredés után, kontextus nélkül.
 > Petra (4): Krisi, te pöpec vagy!
 
 [Link](#elismeres)
+
+<a name="hetnapjai"></a>
+## A hét napjai
+Petrával számoljuk a hét hátralévő napjait.
+
+> Petra (4): Dél, csütörtök, nyár, szombat!
+
+[Link](#hetnapjai)
+
+<a name="orulnek"></a>
+## Örülnék
+
+> Anya: Örülnék, ha nem a ruhádba törölnéd a kezed!  
+> Petra (4): Örülnék, ha nem nevelnél engem.
+
+[Link](#orulnek)
+
+<a name="multheti"></a>
+## Múltheti
+Vásároltunk multivitaminos üdítőitalt.
+
+> Krisi (3): Kérek múltheti vitamint!
+
+[Link](#multheti)
