@@ -904,3 +904,26 @@ Vásároltunk multivitaminos üdítőitalt.
 > Krisi (3): Kérek múltheti vitamint!
 
 [Link](#multheti)
+
+<a name="prince"></a>
+## Prince of Persia
+A régi játékok pixelesek.
+> Krisi (3): A Kardos Eszter miért van legóból?
+
+[Link](#prince)
+
+<a name="iglu"></a>
+## Iglu
+> Petra (4): Ott egy _ugli_.
+---
+> Petra (4): _Csibaba_
+---
+> Krisi (3)i: Ha fúj az  idö, jó lenne papírsárkányt teregetni!
+---
+> Krisi (3): A játszóházban van egy piszoárd.
+---
+> Petra (4): Hol is voltunk? Katalinpuszka!  
+> Apa: És mik voltak ott?  
+> Petra: Cicák.
+
+[Link](#iglu)
