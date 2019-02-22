@@ -927,3 +927,19 @@ A régi játékok pixelesek.
 > Petra: Cicák.
 
 [Link](#iglu)
+
+<a name="idk"></a>
+## IDK
+> Apa: Miért kell mindig ilyen tortúrát csinálni az ebédből?  
+> Krisi (4): Úgy érted, tortillát?
+---
+> Petra (5): Ha most elkezdtek dumálni, kidobom a kapcsot!  
+---
+> Krisi (4): Kèpzeld apa, a zuglós nagypapa megingerelte a lámát!  
+---
+> Krisi (4): Ő nem egy anyuka, hanem egy apuka. Az apukák nem találkoznak másokkal, csak dolgozni mennek.  
+---
+> Anya: A parlamentbe csak idegenvezetővel lehet bemenni.  
+> Krisi (4): Nem lehet ismerővezetővel?
+
+[Link](#idk)
