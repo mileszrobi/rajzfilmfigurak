@@ -943,3 +943,27 @@ A régi játékok pixelesek.
 > Krisi (4): Nem lehet ismerővezetővel?
 
 [Link](#idk)
+
+<a name="eletunk_napjai"></a>
+## Életünk napjai
+
+> Krisi (4): Apa, elviszel egyszer az Aldiba, vörösbabot venni? Nagyon finom! Remélem, eperízű!  
+
+> Anya: Hozom a szteroidos kenőcsöt.  
+> Petra (5): Miért kell aszteroida?  
+
+Készültünk vendégségbe, ajándékkal. Sajnos végül nem tudtunk menni.
+> Petra (5): Nem megyünk buliba?  
+> Anya: Nem.  
+> Petra: Akkor itt marad a csoki!  
+
+Krisi Nagyapával valamit rendezkedik a kertben.
+> Nagyapa: Már a felét elszállítottuk!  
+> Krisi (4): Ez a tehetség!  
+
+Mérnökösködik.
+> Krisi (4): Meg szeretném nézni a tervrajzot.  
+> Anya: Már megnézted a tervrajzot.  
+> Krisi: De még nem fogtam fel a hozzátanulságokat!
+
+[Link](#eletunk_napjai)
