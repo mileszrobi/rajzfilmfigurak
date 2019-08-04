@@ -967,3 +967,31 @@ Mérnökösködik.
 > Krisi: De még nem fogtam fel a hozzátanulságokat!
 
 [Link](#eletunk_napjai)
+
+<a name="de_nem_akarok"></a>
+## De nem akarok
+
+Valami zúg.  
+> Krisi (4): De ha a szobátokban van, akkor hogy halljuk?  
+> Apa: Visszaverődik a hang a falakról.  
+> Krisi: A hang*hullám*.  
+
+Süti.  
+> Krisi (4): Elfelejtettem kapni barackosat.  
+
+?  
+> Krisi (4): Kimehetek a kertbe?  
+> Anya: Igen.  
+> Krisi: De nem akarok!!  
+
+??
+> Krisi (4): Kimehetek biciklizni?  
+> Anya: Ki.  
+> Krisi: Miért?  
+
+Gondolat.  
+> Krisi (4): Jaj, ne!  
+> Apa: Mi az, Krisi?  
+> Krisi: Elfelejtettük átgondolni a dolgokat!
+
+[Link](#de_nem_akarok)
