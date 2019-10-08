@@ -995,3 +995,10 @@ Gondolat.
 > Krisi: Elfelejtettük átgondolni a dolgokat!
 
 [Link](#de_nem_akarok)
+
+<a name="karrier"></a>
+## Karrier
+> Anya: Krisi, te mi leszel, ha nagy leszel?  
+> Petra (5): PITE!  
+
+[Link](#karrier)
