@@ -1002,3 +1002,25 @@ Gondolat.
 > Petra (5): PITE!  
 
 [Link](#karrier)
+
+<a name="lusta"></a>
+## Lusta
+> Krisi (4): Olyan lusta, mint egy hordó!
+
+[Link](#lusta)
+
+<a name="pulcsi"></a>
+## Pulcsi
+Koraőszi szaladgálás a kertben. Petra megjelenik a lakásban.
+
+> Apa: Nem fáztok?  
+> Petra (5): Nem, csak pulcsiért jöttem. Mert hideg van.  
+
+[Link](#pulcsi)
+
+<a name="celtudatos"></a>
+## Céltudatos
+> Krisi (4): Tudod mi leszek, ha nagy leszek? Rendőr, tűzoltó, [...], kiránduló, cserkész. De ezt nem mondom el senkinek, még az ovisoknak sem. Csak az iskolásoknak. Az iskolások céltudatosak.
+
+[Link](#celtudatos)
+
