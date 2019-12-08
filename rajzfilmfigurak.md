@@ -1024,3 +1024,15 @@ Koraőszi szaladgálás a kertben. Petra megjelenik a lakásban.
 
 [Link](#celtudatos)
 
+<a name="mozi"></a>
+## Mozi
+> Krisi (4): Szerintem nyolckor kezdődik, és négytől ötig tart.
+
+[Link](#mozi)
+
+<a name="erdekfeszito"></a>
+## Érdekfeszítő
+> Krisi (4): Érdekfeszítő zeném van, ami érdeket tud feszíteni.
+
+[Link](#erdekfeszito)
+
