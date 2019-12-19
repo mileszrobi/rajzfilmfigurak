@@ -1036,3 +1036,19 @@ Koraőszi szaladgálás a kertben. Petra megjelenik a lakásban.
 
 [Link](#erdekfeszito)
 
+<a name="izgatott"></a>
+## Izgatott
+Anya, egy hosszú nap után, Petrával az autóban.  
+> Petra (6): Anya, már teljesen izgatott vagyok!  
+> Anya: Miért is?  
+> Petra: Hát tudooood, holnapután balett előadás.  
+> Anya: Jaigen...  
+> Petra: (sóhaj) Még nagyon nem megy a ‘Grand Jeté’...  
+
+[Link](#izgatott)
+
+<a name="jout"></a>
+## Jó út
+> Petra (6), a sírás határán: Ha azt akarod, hogy bömböljek, jó úton jársz!
+
+[Link](#jout)
