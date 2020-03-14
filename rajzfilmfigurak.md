@@ -1052,3 +1052,34 @@ Anya, egy hosszú nap után, Petrával az autóban.
 > Petra (6), a sírás határán: Ha azt akarod, hogy bömböljek, jó úton jársz!
 
 [Link](#jout)
+
+<a name="negyfalat"></a>
+## Négy falat
+> Krisi (5): Még négy falatot eszek.  
+> Anya: Nem, öt, és utána ehetsz mézeskalácsot.  
+> Krisi: Rendben, megegyeztem!
+
+[Link](#negyfalat)
+
+<a name="dugo"></a>
+## Dugó
+Ülünk a dugóban. Egyszercsak egy robogó elsurran a kocsisorok között.
+
+> Krisi (5): Ekkora dugóban lehet kaját rendelni?  
+
+[Link](#dugo)
+
+<a name="harminc"></a>
+## Harminc
+> Krisi (5): Rátámaszkodtam a harminc súlyos karjaimmal, és kitört a fél csontom!
+
+[Link](#harminc)
+
+<a name="hangszal"></a>
+## Hangszál
+Tévét nézünk.
+
+> Petra (6): Nem hallom Anya miatt, mert akkora nagy a hangszálja!
+
+[Link](#hangszal)
+
