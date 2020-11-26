@@ -1083,3 +1083,53 @@ Tévét nézünk.
 
 [Link](#hangszal)
 
+<a name="utolso_szo"></a>
+## Utolsó szó
+
+> Krisi (5): Mi az utolsó szavad?  
+> Petra (6): Bunkó vagy!  
+> Krisi: Na, erre nem számítottam. Másik utolsó szót. Valami kedvesebbet.  
+
+[Link](#utolso_szo)
+
+<a name="bunker"></a>
+## Bunker építés
+
+> Petra (6): A fantáziánkat kell használnunk...  
+> Krisi (5): ...nem a józan eszünket!  
+
+[Link](#bunker)
+
+<a name="husol"></a>
+## Krisi hűsöl
+
+Egy nyári napon:
+
+> Krisi (5): Kicsit hűsölök itt a melegben...  
+
+Anyának:
+
+> Krisi (5): Anya, jobban szeretlek, mint a Monopoly-t!    
+
+Költözés után:
+
+> Krisi (5): A macska még azt is észben tartja, hogy nem tudunk cigánykerekezni! Az előző házban sem tudtunk, itt sem tudunk.  
+
+Tanulja az Ú betűt:
+
+> Krisi (5): Apa, az melyik betű, ami egy patkó, rajta egy ékesítés?  
+
+Nem érti a könyvben a képet:
+
+> Krisi (5): Miért jönnek ki zé betűk, amikor nyilvánvalóan nem alszik?  
+
+A motorja specifikációját ecseteli:
+
+> Krisi (5): Az én motorom eggyel indul, százharmincra gyorsul, és ezer perórával megy!
+
+Kreatívan használja a nyelvet:
+
+> Krisi (5): Le fogja fetyelni a kávédat!  
+
+[Link](#husol)
+
