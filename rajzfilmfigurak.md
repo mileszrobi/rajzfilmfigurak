@@ -188,7 +188,7 @@ Vacsora.
 
 > Petra: Megeszem a _madarék_ perecet! 
 
----
+Kő:
 
 > Petra: Ez egy kő?  
 > Apa: Igen.  
@@ -726,43 +726,67 @@ Petra szeretné, ha Anya kilakkozná a körmét.
 
 Krisi fejére húz egy pólót.
 > Krisi (2): Úgy nézek ki, mint egy kisfiú! 
----
+
 Túrós batyu.
+
 > Krisi (2): Szúrós batyu.
----
+
 Petra egyik karkötője elszakadt. Kapott egy másikat, vastagabbat.
+
 > Petra (3): Mi lesz, ha ez is elszakad?  
 > Apa: Ez nem fog elszakadni.  
 > Petra: Mert nagyobb a szakítószilárdsága? 
----
+
+Nyugodt:
+
 > Krisi (2): Azt nyugodtan elvehetem?  
----
+
+Felhő:
+
 > Petra (3): Annyira szeretlek, mint egy felhőt.  
 > Nagyapa: Miért, a felhőt hogy szereted?  
 > Petra: Sehogy.
----
+
+Takaró:
+
 > Krisi (2): Nem tudok betakarózkodni.
----
+
 Krisi a lépcsőn fölfelé menve szemrevételezi a falban lévő elektromos dobozokat.
+
 > Krisi (2): Ez egy doboz. Ráadásul az a doboz.  
----
+
+Kell:
+
 > Krisi (2): Minden kell a szükséghez nekem.
----
+
 Krisi keresi a helyét az asztalnál.
+
 > Krisi (2): Én hol ülök ezek szerint?  
----
+
+Kétszer:
+
 > Apa: Krisi, most ne menj le a lépcsőn.  
 > Krisi (2): De kétszer és százszor!
----
+
+Javít:
+
 > Apa: Krisi, te szétszedted a szivacsot?  
 > Krisi (2): Szétjavítottam.
----
+
+Mindjárt:
+
 > Petra (3): Átöltözöm, mindjárt perc jövök! 
----
+
+Konfetti:
+
 > Petra (3): Koffenti
----
+
+Oliva:
+
 > Krisi (2): Alivabagyó
----
+
+Kalibrál:
+
 > Anya: Krisi, gyere enni.  
 > Krisi (2): Bocs, de még kalibrálnom kell a gépet.
 
@@ -770,21 +794,31 @@ Krisi keresi a helyét az asztalnál.
 
 <a name="2017Okt"></a>
 ## 2017 Október
----  
+
 Krisi lát egy pumát.
+
 > Krisi (2): Az egy pú?  
----
+
+Kell:
+
 > Petra (3): Sajnálom, hogy le fogom rántani az egészet. Az én hibám.  
 > Anya: De mondjuk nem lenne muszáj lerángatni.  
 > Petra: De le kell.
----
+
+Kiderül:
+
 > Petra (3): Én akartam felolvasni Krisinek ezt a mesét, de kiderült, hogy nem tudok olvasni.
----
+
+Komoly:
+
 > Petra (3): Apa, te most komolyan viccelsz?
----
+
+Robot:
+
 > Petra (3): Apa, kár, hogy te nem úgy készültél, mint egy robot.
----
+
 Krisi jelentőségteljesen elhelyezkedik a fotelban.
+
 > Nagyapa: Te vagy a király?  
 > Krisi (2): Igen. Hozzatok egy koronát!  
 
@@ -914,14 +948,23 @@ A régi játékok pixelesek.
 
 <a name="iglu"></a>
 ## Iglu
+
 > Petra (4): Ott egy _ugli_.
----
+
+Kutya:
+
 > Petra (4): _Csibaba_
----
+
+Sárkány:
+
 > Krisi (3)i: Ha fúj az  idö, jó lenne papírsárkányt teregetni!
----
+
+Játszóház:
+
 > Krisi (3): A játszóházban van egy piszoárd.
----
+
+Kirándulás:
+
 > Petra (4): Hol is voltunk? Katalinpuszka!  
 > Apa: És mik voltak ott?  
 > Petra: Cicák.
@@ -930,15 +973,24 @@ A régi játékok pixelesek.
 
 <a name="idk"></a>
 ## IDK
+
 > Apa: Miért kell mindig ilyen tortúrát csinálni az ebédből?  
 > Krisi (4): Úgy érted, tortillát?
----
+
+Duma:
+
 > Petra (5): Ha most elkezdtek dumálni, kidobom a kapcsot!  
----
-> Krisi (4): Kèpzeld apa, a zuglós nagypapa megingerelte a lámát!  
----
+
+Láma:
+
+> Krisi (4): Képzeld apa, a zuglós nagypapa megingerelte a lámát!  
+
+Dolog:
+
 > Krisi (4): Ő nem egy anyuka, hanem egy apuka. Az apukák nem találkoznak másokkal, csak dolgozni mennek.  
----
+
+Vezető:
+
 > Anya: A parlamentbe csak idegenvezetővel lehet bemenni.  
 > Krisi (4): Nem lehet ismerővezetővel?
 
