@@ -1191,7 +1191,7 @@ Kreatívan használja a nyelvet:
 Én nem így emlékeztem erre a játékra.
 
 > Petra (7), Krisi (5) egyszerre, kántálva: Kő - papír - olló - ceruza - ragasztó - öngyújtó - WC-lehúzó - összetörött tányér - iksz - vulkán!  
-> Petra: Te mi vagy?
-> Krisi: Lézer indukált plazma.
+> Petra: Te mi vagy?  
+> Krisi: Lézer indukált plazma.  
 
 [Link](#plazma)
